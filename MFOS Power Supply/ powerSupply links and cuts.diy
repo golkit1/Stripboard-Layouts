@@ -1,0 +1,2614 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project>
+  <fileVersion>
+    <major>4</major>
+    <minor>9</minor>
+    <build>0</build>
+  </fileVersion>
+  <title>New Project</title>
+  <author>Omer</author>
+  <width value="29.0" unit="cm"/>
+  <height value="21.0" unit="cm"/>
+  <gridSpacing value="0.1" unit="in"/>
+  <dotSpacing>1</dotSpacing>
+  <components>
+    <diylc.boards.VeroBoard>
+      <name>Board1</name>
+      <alpha>127</alpha>
+      <value></value>
+      <controlPoints>
+        <point x="1.5000000000000007" y="2.6"/>
+        <point x="6.6" y="5.6"/>
+      </controlPoints>
+      <firstPoint x="1.5000000000000007" y="2.6"/>
+      <secondPoint x="6.6" y="5.6"/>
+      <boardColor hex="f8ebb3"/>
+      <borderColor hex="ada47d"/>
+      <coordinateColor hex="b6b6b6"/>
+      <xType>Numbers</xType>
+      <coordinateOrigin>Top_Left</coordinateOrigin>
+      <coordinateDisplay>One_Side</coordinateDisplay>
+      <yType>Numbers</yType>
+      <length value="129.54" unit="mm"/>
+      <width value="76.2" unit="mm"/>
+      <mode>TwoPoints</mode>
+      <spacing value="2.54" unit="mm"/>
+      <stripColor hex="da8a67"/>
+      <orientation>HORIZONTAL</orientation>
+    </diylc.boards.VeroBoard>
+    <diylc.boards.VeroBoard>
+      <name>Board2</name>
+      <alpha>127</alpha>
+      <value></value>
+      <controlPoints>
+        <point x="7.0" y="2.5"/>
+        <point x="10.5" y="4.5"/>
+      </controlPoints>
+      <firstPoint x="7.0" y="2.5"/>
+      <secondPoint x="10.5" y="4.5"/>
+      <boardColor hex="f8ebb3"/>
+      <borderColor hex="ada47d"/>
+      <coordinateColor hex="b6b6b6"/>
+      <xType>Numbers</xType>
+      <coordinateOrigin>Top_Left</coordinateOrigin>
+      <coordinateDisplay>One_Side</coordinateDisplay>
+      <yType>Numbers</yType>
+      <length value="129.54" unit="mm"/>
+      <width value="76.2" unit="mm"/>
+      <mode>TwoPoints</mode>
+      <spacing value="2.54" unit="mm"/>
+      <stripColor hex="da8a67"/>
+      <orientation>HORIZONTAL</orientation>
+    </diylc.boards.VeroBoard>
+    <diylc.boards.VeroBoard>
+      <name>Board4</name>
+      <alpha>127</alpha>
+      <value></value>
+      <controlPoints>
+        <point x="7.0" y="4.6"/>
+        <point x="10.5" y="6.6"/>
+      </controlPoints>
+      <firstPoint x="7.0" y="4.6"/>
+      <secondPoint x="10.5" y="6.6"/>
+      <boardColor hex="f8ebb3"/>
+      <borderColor hex="ada47d"/>
+      <coordinateColor hex="b6b6b6"/>
+      <xType>Numbers</xType>
+      <coordinateOrigin>Top_Left</coordinateOrigin>
+      <coordinateDisplay>One_Side</coordinateDisplay>
+      <yType>Numbers</yType>
+      <length value="129.54" unit="mm"/>
+      <width value="76.2" unit="mm"/>
+      <mode>TwoPoints</mode>
+      <spacing value="2.54" unit="mm"/>
+      <stripColor hex="da8a67"/>
+      <orientation>HORIZONTAL</orientation>
+    </diylc.boards.VeroBoard>
+    <diylc.connectivity.TraceCut>
+      <name>Cut1</name>
+      <size value="0.08" unit="in"/>
+      <fillColor hex="ffffff"/>
+      <borderColor hex="ff0000"/>
+      <boardColor hex="f8ebb3"/>
+      <cutBetweenHoles>false</cutBetweenHoles>
+      <orientation>VERTICAL</orientation>
+      <holeSpacing value="0.1" unit="in"/>
+      <point x="2.0" y="3.5"/>
+    </diylc.connectivity.TraceCut>
+    <diylc.connectivity.TraceCut>
+      <name>Cut3</name>
+      <size value="0.08" unit="in"/>
+      <fillColor hex="ffffff"/>
+      <borderColor hex="ff0000"/>
+      <boardColor hex="f8ebb3"/>
+      <cutBetweenHoles>false</cutBetweenHoles>
+      <orientation>VERTICAL</orientation>
+      <holeSpacing value="0.1" unit="in"/>
+      <point x="4.4" y="4.5"/>
+    </diylc.connectivity.TraceCut>
+    <diylc.connectivity.TraceCut>
+      <name>Cut4</name>
+      <size value="0.08" unit="in"/>
+      <fillColor hex="ffffff"/>
+      <borderColor hex="ff0000"/>
+      <boardColor hex="f8ebb3"/>
+      <cutBetweenHoles>false</cutBetweenHoles>
+      <orientation>VERTICAL</orientation>
+      <holeSpacing value="0.1" unit="in"/>
+      <point x="5.9" y="3.9"/>
+    </diylc.connectivity.TraceCut>
+    <diylc.connectivity.TraceCut>
+      <name>Cut2</name>
+      <size value="0.08" unit="in"/>
+      <fillColor hex="ffffff"/>
+      <borderColor hex="ff0000"/>
+      <boardColor hex="f8ebb3"/>
+      <cutBetweenHoles>false</cutBetweenHoles>
+      <orientation>VERTICAL</orientation>
+      <holeSpacing value="0.1" unit="in"/>
+      <point x="5.9" y="3.7"/>
+    </diylc.connectivity.TraceCut>
+    <diylc.connectivity.TraceCut>
+      <name>Cut5</name>
+      <size value="0.08" unit="in"/>
+      <fillColor hex="ffffff"/>
+      <borderColor hex="ff0000"/>
+      <boardColor hex="f8ebb3"/>
+      <cutBetweenHoles>false</cutBetweenHoles>
+      <orientation>VERTICAL</orientation>
+      <holeSpacing value="0.1" unit="in"/>
+      <point x="5.9" y="4.5"/>
+    </diylc.connectivity.TraceCut>
+    <diylc.connectivity.TraceCut>
+      <name>Cut6</name>
+      <size value="0.08" unit="in"/>
+      <fillColor hex="ffffff"/>
+      <borderColor hex="ff0000"/>
+      <boardColor hex="f8ebb3"/>
+      <cutBetweenHoles>false</cutBetweenHoles>
+      <orientation>VERTICAL</orientation>
+      <holeSpacing value="0.1" unit="in"/>
+      <point x="4.6" y="3.1"/>
+    </diylc.connectivity.TraceCut>
+    <diylc.connectivity.TraceCut>
+      <name>Cut9</name>
+      <size value="0.08" unit="in"/>
+      <fillColor hex="ffffff"/>
+      <borderColor hex="ff0000"/>
+      <boardColor hex="f8ebb3"/>
+      <cutBetweenHoles>false</cutBetweenHoles>
+      <orientation>VERTICAL</orientation>
+      <holeSpacing value="0.1" unit="in"/>
+      <point x="5.6" y="3.6"/>
+    </diylc.connectivity.TraceCut>
+    <diylc.connectivity.TraceCut>
+      <name>Cut7</name>
+      <size value="0.08" unit="in"/>
+      <fillColor hex="ffffff"/>
+      <borderColor hex="ff0000"/>
+      <boardColor hex="f8ebb3"/>
+      <cutBetweenHoles>false</cutBetweenHoles>
+      <orientation>VERTICAL</orientation>
+      <holeSpacing value="0.1" unit="in"/>
+      <point x="5.6" y="4.0"/>
+    </diylc.connectivity.TraceCut>
+    <diylc.connectivity.TraceCut>
+      <name>Cut8</name>
+      <size value="0.08" unit="in"/>
+      <fillColor hex="ffffff"/>
+      <borderColor hex="ff0000"/>
+      <boardColor hex="f8ebb3"/>
+      <cutBetweenHoles>false</cutBetweenHoles>
+      <orientation>VERTICAL</orientation>
+      <holeSpacing value="0.1" unit="in"/>
+      <point x="4.6" y="3.0"/>
+    </diylc.connectivity.TraceCut>
+    <diylc.connectivity.TraceCut>
+      <name>Cut10</name>
+      <size value="0.08" unit="in"/>
+      <fillColor hex="ffffff"/>
+      <borderColor hex="ff0000"/>
+      <boardColor hex="f8ebb3"/>
+      <cutBetweenHoles>false</cutBetweenHoles>
+      <orientation>VERTICAL</orientation>
+      <holeSpacing value="0.1" unit="in"/>
+      <point x="5.0" y="4.1"/>
+    </diylc.connectivity.TraceCut>
+    <diylc.connectivity.Dot>
+      <name>Dot1</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="1.6" y="3.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot2</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="1.6" y="3.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot3</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="1.6" y="2.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot4</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="1.6999999999999995" y="2.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot5</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="1.6999999999999995" y="2.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot6</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="1.6" y="2.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot7</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="1.6999999999999995" y="2.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot8</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="1.8" y="2.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot9</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="1.8" y="2.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot10</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="1.8" y="2.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot11</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="1.6" y="2.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot12</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="6.299999999999999" y="2.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot13</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="6.400000000000001" y="2.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot14</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="6.400000000000001" y="2.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot15</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="6.299999999999999" y="2.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot16</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="6.400000000000001" y="2.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot17</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="6.5" y="2.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot18</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="6.5" y="2.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot19</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="6.5" y="2.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot20</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="6.299999999999999" y="2.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot23</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="6.400000000000001" y="5.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot24</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="6.299999999999999" y="5.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot25</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="6.400000000000001" y="5.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot26</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="6.5" y="5.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot27</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="6.5" y="5.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot29</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="6.299999999999999" y="5.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot32</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="1.6999999999999995" y="5.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot33</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="1.6" y="5.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot34</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="1.6999999999999995" y="5.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot35</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="1.8" y="5.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot36</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="1.8" y="5.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot38</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="1.6" y="5.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot55</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="4.9" y="3.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot56</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="4.9" y="3.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot59</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.0" y="3.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot60</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.0" y="3.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot61</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.099999999999999" y="3.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot62</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.099999999999999" y="3.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot64</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.3" y="2.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot65</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.4" y="2.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot68</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.4" y="3.0"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot69</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.3" y="3.0"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot70</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.3" y="3.1"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot71</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.4" y="3.1"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot74</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.4" y="3.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot75</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.3" y="3.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot76</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.200000000000001" y="3.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot77</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.200000000000001" y="3.1"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot78</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.200000000000001" y="3.0"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot79</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.200000000000001" y="2.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot88</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.4" y="2.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot89</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.3" y="2.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot90</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.099999999999999" y="2.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot91</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.200000000000001" y="2.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot96</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.4" y="3.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot97</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.4" y="3.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot98</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.3" y="3.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot99</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.200000000000001" y="3.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot100</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.200000000000001" y="3.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot101</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.3" y="3.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot46</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.4" y="2.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot47</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.3" y="2.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot48</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.099999999999999" y="2.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot49</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.200000000000001" y="2.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot50</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.0" y="2.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot51</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="4.9" y="2.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot52</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="4.9" y="3.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot53</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.0" y="3.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot54</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.099999999999999" y="3.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot57</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.0" y="2.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot58</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="4.9" y="2.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot63</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.0" y="4.800000000000001"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot66</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.0" y="4.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot67</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.099999999999999" y="4.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot72</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.099999999999999" y="4.800000000000001"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot73</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.200000000000001" y="4.800000000000001"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot80</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.200000000000001" y="4.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot81</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.4" y="4.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot82</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.5" y="4.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot83</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.5" y="4.499999999999999"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot84</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.4" y="4.499999999999999"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot85</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.4" y="4.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot86</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.5" y="4.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot87</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.5" y="4.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot92</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.4" y="4.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot93</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.3" y="4.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot94</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.3" y="4.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot95</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.3" y="4.499999999999999"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot102</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.3" y="4.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot103</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.5" y="4.300000000000001"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot104</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.4" y="4.300000000000001"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot105</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.200000000000001" y="4.300000000000001"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot106</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.3" y="4.300000000000001"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot107</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.5" y="4.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot108</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.5" y="4.800000000000001"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot109</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.4" y="4.800000000000001"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot110</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.3" y="4.800000000000001"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot111</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.3" y="4.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot112</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.4" y="4.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot113</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.5" y="4.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot114</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.4" y="4.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot115</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.200000000000001" y="4.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot116</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.3" y="4.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot117</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.099999999999999" y="4.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot118</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.0" y="4.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot119</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.0" y="4.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot120</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.099999999999999" y="4.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot121</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.200000000000001" y="4.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot122</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.099999999999999" y="4.300000000000001"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot123</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.0" y="4.300000000000001"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Jumper>
+      <name>J1</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="2.8" y="3.2"/>
+        <point x="2.8" y="3.8"/>
+        <point x="2.8" y="3.5"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <style>SOLID</style>
+    </diylc.connectivity.Jumper>
+    <diylc.connectivity.Jumper>
+      <name>J2</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="5.6" y="3.0"/>
+        <point x="5.6" y="3.2"/>
+        <point x="5.6" y="3.1"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <style>SOLID</style>
+    </diylc.connectivity.Jumper>
+    <diylc.connectivity.Jumper>
+      <name>J3</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="1.9" y="3.8"/>
+        <point x="1.9" y="4.4"/>
+        <point x="1.9" y="4.1"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <style>SOLID</style>
+    </diylc.connectivity.Jumper>
+    <diylc.connectivity.Jumper>
+      <name>J4</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="4.6" y="4.1"/>
+        <point x="4.6" y="4.499999999999999"/>
+        <point x="4.6" y="4.300000000000001"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="0000ff"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <style>SOLID</style>
+    </diylc.connectivity.Jumper>
+    <diylc.connectivity.Dot>
+      <name>Dot39</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="1.6" y="5.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot40</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="1.6999999999999995" y="5.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot41</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="1.8" y="5.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot45</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="6.3" y="5.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot127</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="6.4" y="5.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot128</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="6.5" y="5.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot21</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.6" y="4.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot22</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.6" y="4.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot28</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.6" y="4.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot30</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.6" y="4.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot31</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.6" y="4.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot37</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.6" y="4.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot42</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="-2.9" y="0.0"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot43</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.6" y="4.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot44</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.6" y="4.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot129</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.5" y="2.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot130</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.5" y="3.0"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot131</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.5" y="3.1"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot132</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.5" y="3.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot133</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.5" y="2.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot134</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.5" y="3.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot135</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.5" y="3.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot136</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="5.5" y="2.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.HookupWire>
+      <name>W1</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="6.3" y="3.1"/>
+        <point x="6.3" y="3.3"/>
+        <point x="6.3" y="3.6"/>
+        <point x="6.3" y="3.7"/>
+      </controlPoints2>
+      <color hex="ff0000"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_26</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W2</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="6.3" y="3.9"/>
+        <point x="6.3" y="4.2"/>
+        <point x="6.3" y="4.6"/>
+        <point x="6.3" y="4.6"/>
+      </controlPoints2>
+      <color hex="0000cc"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_26</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.Dot>
+      <name>Dot137</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.1" y="2.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot138</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.2" y="2.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot139</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.2" y="2.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot140</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.1" y="2.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot141</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.1" y="4.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot142</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.1" y="4.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot143</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.2" y="4.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot144</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.2" y="4.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot145</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.4" y="4.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot146</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.3" y="4.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot147</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.3" y="4.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot148</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.4" y="4.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot149</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.4" y="2.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot150</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.4" y="2.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot151</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.3" y="2.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot152</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.3" y="2.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.HookupWire>
+      <name>W3</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="7.2" y="3.4"/>
+        <point x="6.6" y="3.3"/>
+        <point x="6.5" y="3.6"/>
+        <point x="6.4" y="3.7"/>
+      </controlPoints2>
+      <color hex="ff0000"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_26</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W4</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="6.4" y="3.9"/>
+        <point x="6.6" y="4.2"/>
+        <point x="7.0" y="4.1"/>
+        <point x="7.1" y="3.8"/>
+      </controlPoints2>
+      <color hex="0000cc"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_26</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.Dot>
+      <name>Dot169</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.4" y="3.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot170</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.4" y="3.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot171</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.4" y="3.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot172</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.4" y="3.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot173</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.4" y="3.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot174</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.4" y="3.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot175</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.4" y="3.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot176</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.4" y="3.1"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot177</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.5" y="3.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot178</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.5" y="3.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot179</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.5" y="3.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot180</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.5" y="3.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot181</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.5" y="3.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot182</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.5" y="3.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot183</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.5" y="3.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot184</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.5" y="3.1"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Jumper>
+      <name>J5</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="7.6" y="3.5"/>
+        <point x="7.6" y="3.6"/>
+        <point x="7.6" y="3.55"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <style>SOLID</style>
+    </diylc.connectivity.Jumper>
+    <diylc.connectivity.Jumper>
+      <name>J6</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="7.7" y="3.6"/>
+        <point x="7.7" y="3.7"/>
+        <point x="7.7" y="3.65"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <style>SOLID</style>
+    </diylc.connectivity.Jumper>
+    <diylc.connectivity.Dot>
+      <name>Dot185</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.1" y="3.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot186</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.1" y="3.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot187</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.1" y="3.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot188</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.1" y="3.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot189</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.1" y="3.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot190</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.1" y="3.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot191</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.1" y="3.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot192</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.1" y="3.1"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot193</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.2" y="3.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot194</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.2" y="3.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot195</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.2" y="3.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot196</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.2" y="3.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot197</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.2" y="3.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot198</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.2" y="3.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot199</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.2" y="3.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot200</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.2" y="3.1"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot201</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.8" y="3.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot202</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.8" y="3.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot203</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.8" y="3.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot204</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.8" y="3.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot205</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.8" y="3.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot206</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.8" y="3.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot207</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.8" y="3.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot208</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.8" y="3.1"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot209</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.9" y="3.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot210</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.9" y="3.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot211</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.9" y="3.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot212</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.9" y="3.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot213</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.9" y="3.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot214</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.9" y="3.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot215</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.9" y="3.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot216</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.9" y="3.1"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot217</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.5" y="3.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot218</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.5" y="3.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot219</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.5" y="3.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot220</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.5" y="3.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot221</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.5" y="3.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot222</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.5" y="3.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot223</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.5" y="3.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot224</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.5" y="3.1"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot225</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.6" y="3.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot226</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.6" y="3.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot227</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.6" y="3.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot228</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.6" y="3.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot229</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.6" y="3.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot230</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.6" y="3.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot231</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.6" y="3.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot232</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.6" y="3.1"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot233</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.2" y="3.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot234</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.2" y="3.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot235</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.2" y="3.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot236</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.2" y="3.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot237</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.2" y="3.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot238</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.2" y="3.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot239</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.2" y="3.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot240</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.2" y="3.1"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot241</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.3" y="3.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot242</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.3" y="3.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot243</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.3" y="3.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot244</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.3" y="3.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot245</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.3" y="3.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot246</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.3" y="3.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot247</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.3" y="3.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot248</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.3" y="3.1"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.HookupWire>
+      <name>W5</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="6.5" y="3.8"/>
+        <point x="7.0" y="3.8"/>
+        <point x="7.0" y="3.8"/>
+        <point x="7.1" y="3.6"/>
+      </controlPoints2>
+      <color hex="000000"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_26</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.Dot>
+      <name>Dot124</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.1" y="4.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot125</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.2" y="4.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot126</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.2" y="4.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot249</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.1" y="4.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot250</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.1" y="6.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot251</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.1" y="6.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot252</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.2" y="6.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot253</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.2" y="6.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot254</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.4" y="6.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot255</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.3" y="6.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot256</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.3" y="6.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot257</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.4" y="6.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot258</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.4" y="4.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot259</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.4" y="4.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot260</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.3" y="4.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot261</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.3" y="4.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.HookupWire>
+      <name>W6</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="7.2" y="5.5"/>
+        <point x="7.0" y="4.7"/>
+        <point x="6.7" y="4.9"/>
+        <point x="6.5" y="3.7"/>
+      </controlPoints2>
+      <color hex="ff0000"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_26</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W7</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="6.5" y="3.9"/>
+        <point x="6.7" y="4.9"/>
+        <point x="7.0" y="6.2"/>
+        <point x="7.1" y="5.9"/>
+      </controlPoints2>
+      <color hex="0000cc"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_26</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.Dot>
+      <name>Dot262</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.4" y="5.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot263</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.4" y="5.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot264</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.4" y="5.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot265</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.4" y="5.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot266</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.4" y="5.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot267</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.4" y="5.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot268</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.4" y="5.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot269</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.4" y="5.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot270</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.5" y="5.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot271</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.5" y="5.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot272</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.5" y="5.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot273</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.5" y="5.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot274</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.5" y="5.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot275</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.5" y="5.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot276</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.5" y="5.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot277</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="7.5" y="5.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Jumper>
+      <name>J7</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="7.6" y="5.6"/>
+        <point x="7.6" y="5.7"/>
+        <point x="7.6" y="5.65"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <style>SOLID</style>
+    </diylc.connectivity.Jumper>
+    <diylc.connectivity.Jumper>
+      <name>J8</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="7.7" y="5.7"/>
+        <point x="7.7" y="5.8"/>
+        <point x="7.7" y="5.75"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <style>SOLID</style>
+    </diylc.connectivity.Jumper>
+    <diylc.connectivity.Dot>
+      <name>Dot278</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.1" y="5.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot279</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.1" y="5.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot280</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.1" y="5.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot281</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.1" y="5.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot282</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.1" y="5.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot283</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.1" y="5.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot284</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.1" y="5.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot285</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.1" y="5.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot286</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.2" y="5.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot287</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.2" y="5.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot288</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.2" y="5.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot289</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.2" y="5.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot290</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.2" y="5.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot291</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.2" y="5.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot292</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.2" y="5.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot293</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.2" y="5.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot294</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.8" y="5.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot295</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.8" y="5.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot296</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.8" y="5.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot297</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.8" y="5.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot298</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.8" y="5.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot299</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.8" y="5.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot300</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.8" y="5.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot301</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.8" y="5.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot302</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.9" y="5.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot303</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.9" y="5.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot304</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.9" y="5.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot305</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.9" y="5.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot306</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.9" y="5.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot307</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.9" y="5.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot308</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.9" y="5.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot309</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="8.9" y="5.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot310</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.5" y="5.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot311</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.5" y="5.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot312</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.5" y="5.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot313</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.5" y="5.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot314</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.5" y="5.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot315</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.5" y="5.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot316</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.5" y="5.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot317</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.5" y="5.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot318</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.6" y="5.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot319</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.6" y="5.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot320</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.6" y="5.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot321</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.6" y="5.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot322</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.6" y="5.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot323</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.6" y="5.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot324</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.6" y="5.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot325</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="9.6" y="5.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot326</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.2" y="5.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot327</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.2" y="5.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot328</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.2" y="5.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot329</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.2" y="5.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot330</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.2" y="5.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot331</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.2" y="5.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot332</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.2" y="5.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot333</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.2" y="5.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot334</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.3" y="5.9"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot335</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.3" y="5.8"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot336</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.3" y="5.7"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot337</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.3" y="5.6"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot338</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.3" y="5.5"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot339</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.3" y="5.4"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot340</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.3" y="5.3"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.Dot>
+      <name>Dot341</name>
+      <size value="1.0" unit="mm"/>
+      <color hex="000000"/>
+      <point x="10.3" y="5.2"/>
+    </diylc.connectivity.Dot>
+    <diylc.connectivity.HookupWire>
+      <name>W8</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="6.4" y="3.8"/>
+        <point x="6.6" y="5.1"/>
+        <point x="7.0" y="5.9"/>
+        <point x="7.1" y="5.7"/>
+      </controlPoints2>
+      <color hex="000000"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_26</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.misc.Label>
+      <name>L1</name>
+      <point x="1.4" y="3.8"/>
+      <text>AC2</text>
+      <font name="Square721 BT Roman" size="14" style="0"/>
+      <color hex="000000"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L2</name>
+      <point x="1.4" y="3.5"/>
+      <text>AC1</text>
+      <font reference="../../diylc.misc.Label/font"/>
+      <color hex="000000"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L3</name>
+      <point x="6.7" y="3.7"/>
+      <text>+12V</text>
+      <font name="Square721 BT Roman" size="14" style="0"/>
+      <color hex="000000"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L4</name>
+      <point x="6.7" y="3.8"/>
+      <text>GND</text>
+      <font name="Square721 BT Roman" size="14" style="0"/>
+      <color hex="000000"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L5</name>
+      <point x="6.7" y="3.9"/>
+      <text>-12v</text>
+      <font name="Square721 BT Roman" size="14" style="0"/>
+      <color hex="000000"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L6</name>
+      <point x="7.2" y="3.8"/>
+      <text>-12v</text>
+      <font name="Square721 BT Roman" size="14" style="0"/>
+      <color hex="000000"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L7</name>
+      <point x="7.3" y="3.7"/>
+      <text>GND</text>
+      <font name="Square721 BT Roman" size="14" style="0"/>
+      <color hex="000000"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L8</name>
+      <point x="7.3" y="3.6"/>
+      <text>GND</text>
+      <font name="Square721 BT Roman" size="14" style="0"/>
+      <color hex="000000"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L9</name>
+      <point x="7.3" y="3.5"/>
+      <text>GND</text>
+      <font name="Square721 BT Roman" size="14" style="0"/>
+      <color hex="000000"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L10</name>
+      <point x="7.3" y="3.4"/>
+      <text>+12V</text>
+      <font name="Square721 BT Roman" size="14" style="0"/>
+      <color hex="000000"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L11</name>
+      <point x="7.2" y="5.9"/>
+      <text>-12v</text>
+      <font name="Square721 BT Roman" size="14" style="0"/>
+      <color hex="000000"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L12</name>
+      <point x="7.3" y="5.8"/>
+      <text>GND</text>
+      <font name="Square721 BT Roman" size="14" style="0"/>
+      <color hex="000000"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L13</name>
+      <point x="7.3" y="5.7"/>
+      <text>GND</text>
+      <font name="Square721 BT Roman" size="14" style="0"/>
+      <color hex="000000"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L14</name>
+      <point x="7.3" y="5.6"/>
+      <text>GND</text>
+      <font name="Square721 BT Roman" size="14" style="0"/>
+      <color hex="000000"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>L15</name>
+      <point x="7.3" y="5.5"/>
+      <text>+12V</text>
+      <font name="Square721 BT Roman" size="14" style="0"/>
+      <color hex="000000"/>
+      <center>false</center>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+  </components>
+  <groups/>
+  <lockedLayers/>
+  <lockedComponents/>
+  <hiddenLayers/>
+  <font name="Square721 BT Roman" size="14" style="0"/>
+</project>
