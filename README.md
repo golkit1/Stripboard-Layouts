@@ -9,6 +9,10 @@ In this way I think that anyone can easily access a layout, double check it agai
 
 Please feel free to fork the repository, to add your own layouts to it and submit a pull request.
 
+bitcoin: 
+bc1qd697d5au7xcwq9hgalj4uxexcsg20k06np9dq6
+
+
 
 
 
